@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Garment Printer Ink shipping software was designed to make packaging orders easy by displaying the most cost effective way to package every order.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Dashboard using Highschats for datavisualization.
+A decision tree to determine how order need to be packaged.
+etc. (Will expand documentation later).
